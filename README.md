@@ -1,4 +1,4 @@
-*Тестовое Заданиe AlreadyMedia*
+#Тестовое Заданиe AlreadyMedia
 
 Frontend: React(js), Redux, bootstrap
 Backend: .NET Core 9, Hangfire, EF Core
